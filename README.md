@@ -16,7 +16,7 @@ When opening the site you may begin by using the Navigation Links at the top of 
 
 ![Screenshot of functioning Horiseon Website](assets/images/module01-challenge-sc.png)
 
-The suggested viewing ratio is between 1012 x 790 (min) and 1437 x 790 (max) to aviod distoration of text.
+The suggested viewing ratio is between 1012 x 790 (min) and 1437 x 790 (max) to avoid distortion of text.
 
 ## Credits
 
