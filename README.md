@@ -1,4 +1,4 @@
-# Module 1 Challenge - HTML/CSS
+# Horiseon Website Refactoring
 
 ## Description
 
