@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-When opening the site you may begin by using the Navigation Links at the top of the page to bring you to your desired topic. In addition, alt image tags are attached to each image for accessibility to all users. <a href="https://samanthashleyrose.github.io/module01-challenge/">View Horiseon Company Skills and Strategies Website</a>
+When opening the site you may begin by using the Navigation Links at the top of the page to bring you to your desired topic. In addition, alt image tags are attached to each image for accessibility to all users. <a href="https://samanthashleyrose.github.io/Horiseon-Website-Refactoring/">View Horiseon Company Skills and Strategies Website</a>
 
 ![Screenshot of functioning Horiseon Website](assets/images/module01-challenge-sc.png)
 
