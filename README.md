@@ -21,13 +21,13 @@ The suggested viewing ratio is between 1012 x 790 (min) and 1437 x 790 (max) to 
 ## Credits
 
 #### Knowledge Assitance From:
-<li>Mia Ciasullo <link><a href="https://github.com/miacias/first-portfolio">GitHub Portfolio</a></link></li>
-<li>Lee Warrick <link><a href="https://leewarrick.com/">Personal Portfolio</a></link></li>
+<li>Mia Ciasullo <a href="https://github.com/miacias/first-portfolio">GitHub Portfolio</a></li>
+<li>Lee Warrick <a href="https://leewarrick.com/">Personal Portfolio</a></li>
 
 
 #### Documentation Used:
-<li><link><a href="https://www.w3schools.com/html/html5_semantic_elements.asp">W3Schools Semantic Elements</link></li>
-<li><link><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors">MDN CSS Selectors</link></li>
+<li><a href="https://www.w3schools.com/html/html5_semantic_elements.asp">W3Schools Semantic Elements</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors">MDN CSS Selectors</li>
 
 ## License
 
